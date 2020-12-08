@@ -144,6 +144,11 @@ body {
   display: block;
   text-align: center;
   font-size: 21px;
+  transition: 1s linear; 
+}
+
+.section-form__button:hover {
+  background: #3B0077;
 }
 
 .section-form__agree {
