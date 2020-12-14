@@ -12,32 +12,3 @@
   font-family: 'Roboto-Regular';
   src: url('./fonts/Roboto-Regular.ttf');
 }
-
-.menu__item {
-  font-family: Roboto-Bold;
-}
-
-.section-content__title {
-  font-family: Roboto-Bold;
-}
-
-.section-content__description {
-  font-family: Roboto-Regular;
-}
-
-.section-form__take-part {
-  font-family: PTSansCaption-Bold;
-}
-
-.section-form__button {
-  font-family: Roboto-Regular;
-}
-
-.section-form__agree {
-  font-family: Roboto-Regular;
-}
-
-@media (max-width: 768px) {
-  .menu__item {
-  font-family: PTSansCaption-Bold;
-}
